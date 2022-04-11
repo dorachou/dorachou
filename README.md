@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 print("Hello!",end="")
 print("world")
+import math
+print(round(math.pi,4))
+
